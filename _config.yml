@@ -1,8 +1,8 @@
 # site settings
-title: Ecological Behaviour Exploration Hub
-subtitle: by Aversive Learning Lab
-email: youremailaddress@gmail.com
-description: Presenting a series of ecological behaviour research tools and datasets
+title: Pain and Aversive System Resources
+subtitle: by Pain and Aversive System Lab
+email: 
+description: Presenting a series of tools and datasets for pain and aversive system research
 baseurl: "/main" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/Pain-and-aversive-system
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: 
+  Twitter: 
   Facebook:
   Slack:
 

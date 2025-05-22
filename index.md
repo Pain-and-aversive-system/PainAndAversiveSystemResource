@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, welcome to the Hub'
+landing-title: 'Explore our suite of open-source tools and datasets'
 description: null
 image: null
 author: null

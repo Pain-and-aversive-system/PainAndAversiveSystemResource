@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: VR Experiment Tools
+title: VR-pain experiment tools
 description: 
 image: assets/images/env.png
 nav-menu: true
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>VR Experiment Tools</h2>
+			<h2>VR-pain experiment tools</h2>
 		</header>
 		<p>We provide a set of software tools to help you run ecologically valid, immersive virtual reality experiments with smooth, realtime data integration and feedback control</p>
 	</div>

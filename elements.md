@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Datasets and Analysis
+title: Cognitive Testing tasks
 image: assets/images/datasets.png
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Datasets and Analysis Tools</h1>
+			<h1>Cognitive Testing tasks</h1>
 		</header>
 
 <!-- Content -->

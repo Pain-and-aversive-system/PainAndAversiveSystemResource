@@ -1,5 +1,5 @@
 ---
-title: Relevant publications
+title: Movement measurement
 layout: landing
 description:
 image: assets/images/pic07.jpg
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Relevant publications</h2>
+			<h2>Movement measurement</h2>
 		</header>
 		<p>To be posted</p>
 	</div>
