@@ -2,7 +2,7 @@
 title: Movement measurement
 layout: landing
 description:
-image: assets/images/pic07.jpg
+image: assets/images/v3d.png
 nav-menu: true
 order: 3
 ---
