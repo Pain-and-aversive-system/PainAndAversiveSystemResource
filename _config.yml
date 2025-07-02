@@ -1,7 +1,7 @@
 # site settings
 title: Pain and Aversive System Resources
 subtitle: by Pain and Aversive System Lab
-email: 
+email: ben.seymour@ndcn.ox.ac.uk
 description: Presenting a series of tools and datasets for pain and aversive system research
 baseurl: "/main" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -10,7 +10,7 @@ street_address: Old Road Campus Building
 city: Oxford
 state: 
 zip_code: OX3 7DQ
-country: 
+country: United Kingdom
 phone: 
 
 # homepage tiles

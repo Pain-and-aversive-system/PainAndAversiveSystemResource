@@ -3,6 +3,7 @@ layout: page
 title: Cognitive Testing tasks
 image: assets/images/datasets.png
 nav-menu: true
+order: 2
 ---
 
 <!-- Main -->
