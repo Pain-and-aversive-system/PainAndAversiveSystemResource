@@ -23,7 +23,7 @@ order: 2
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/avd_clip_fast.gif %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/balloon_clip_fast-1.gif %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

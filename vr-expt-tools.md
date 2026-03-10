@@ -97,8 +97,8 @@ order: 1
 				</header>
 				<p>Streaming mobile EEG to the integrative control panel from different commercial EEG amplifier, through a light compatible layer of labstreaminglayer.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/ShuangyiTong/PainLabLSLCompatibilityLayerg.tecEEG" target="_blank" class="button">Download (g.tec device)</a></li>
-					<li><a href="https://github.com/ShuangyiTong/PainLabLSLCompatibilityLayerLiveAmp" target="_blank" class="button">Download (LiveAmp by BrainProducts)</a></li>
+					<li><a href="https://github.com/ShuangyiTong/PainLabLSLCompatibilityLayerg.tecEEG" target="_blank" class="button">Download (for g.tec device)</a></li>
+					<li><a href="https://github.com/ShuangyiTong/PainLabLSLCompatibilityLayerLiveAmp" target="_blank" class="button">Download (for BrainProducts LiveAmp)</a></li>
 				</ul>
 			</div>
 		</div>
